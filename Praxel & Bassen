@@ -1,0 +1,22 @@
+https://github.com/nicolebassen/Guess-Who
+
+What is meteor?
+
+Open source written using Node.js. All in one collection of libraries and packeages that all come together in this pretyy little frameowkr to amek web development easy. 
+
+Why use it?
+What used to take 1000+ lines of code can be achieved in a few hundred by combining 3 core features
+1)Realtime designing
+2)Database access using mongoDB 
+3)No real latency
+
+How?
+Instructions on meteor.com
+6 Different tutorials
+
+Responsive design accross all platforms
+
+Isomorphic javascript, Blaze, mongoDB, IronRouter
+Not supported by all hosts
+
+Free year of AWS!
