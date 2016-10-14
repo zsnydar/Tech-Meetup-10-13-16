@@ -1,0 +1,10 @@
+Content Runner is a written content marketplace, built in laravel
+
+Laravel - The PHP Framework For Web Artisans
+  Requirements: PHP >=5.6.4, OpenSSL, PDO, MBstring, Tokenizer, XML
+
+Go to laravel.com/docs/
+
+ORM- class to represent database tables
+manipulate database programmatically instead of manual SQL
+
